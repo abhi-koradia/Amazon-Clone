@@ -10,10 +10,7 @@
 
   <p align="center">
     Fully functional Amazon e-commerce website with stripe payment gateway.
-   
-    <br />
-    <br />
-   
+  
   </p>
 </p>
 
