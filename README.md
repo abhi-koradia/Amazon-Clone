@@ -30,4 +30,4 @@
 
 1. Firebase Authentication.  
 2. Log-in to the project using test-email. 
-3. Stripe-Payment (Test data:- Cardnumber: 4242 4242 4242 4242, Date:04/24, CVC:242  & Zip:42424). 
+3. Stripe-Payment (Test data:- Cardnumber: 4242 4242 4242 4242, Date: 04/24, CVC: 242  & Zip: 42424). 
