@@ -10,8 +10,7 @@
 
   <p align="center">
     Fully functional Amazon e-commerce website with stripe payment gateway.
-    <br />
-    <a href="https://clone-6afbf.web.app/"><strong>View Live Website »</strong></a>
+   
     <br />
     <br />
    
