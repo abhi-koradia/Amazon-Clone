@@ -6,7 +6,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png" alt="Logo" width="20%" height="90">
   </a>
 
-  #Amazon Clone Using ReactJS
+  <h3>Amazon Clone Using ReactJS</h3>
 
   <p align="center">
     Fully functional Amazon e-commerce website with stripe payment gateway.
